@@ -68,6 +68,9 @@ ul{
   width: 600px;
 }
 
+table{
+  border-spacing: 0px;
+}
 th{
   text-align: left;
   color: white;
