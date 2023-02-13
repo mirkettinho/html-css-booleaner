@@ -2,3 +2,46 @@
 *{
   margin: 0;
 }
+
+
+/* header */
+header img{
+  width: 120px;
+  padding-top: 30px;
+}
+
+header{
+  height: 65px;
+  background-image: url(../img/pattern.png);
+  background-size: 250px;
+  background-color: #4ea0ff;
+}
+
+main, footer{
+  margin: 3px;
+}
+
+
+span{
+  color: red;
+}
+
+#writer{
+  color: #46b7e9;
+}
+
+.gray-words{
+  color: #bbbbbb;
+}
+
+.date{
+  font-size: 7px;
+}
+
+.tim{
+  width: 350px;
+}
+
+p.ph{
+  font-size: 15px;
+}
